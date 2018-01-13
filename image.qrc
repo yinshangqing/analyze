@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>图片1.png</file>
+        <file>background.jpg</file>
+        <file>emc.ico</file>
+    </qresource>
+</RCC>
